@@ -1,0 +1,16 @@
+{
+    "par": 72,
+    "name": "St. Andrews",
+    "holes": [
+        {
+            "par": 3,
+            "distance": 150,
+            "holeNumber": 2
+        },
+        {
+            "par": 4,
+            "distance": 450,
+            "holeNumber": 3
+        }
+    ]
+}

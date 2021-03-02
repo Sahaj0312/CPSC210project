@@ -1,0 +1,51 @@
+{
+    "par": 72,
+    "name": "St. Andrews",
+    "holes": [
+        {
+            "par": 1,
+            "distance": 1,
+            "holeNumber": 9
+        },
+        {
+            "par": 1,
+            "distance": 1,
+            "holeNumber": 1
+        },
+        {
+            "par": 1,
+            "distance": 1,
+            "holeNumber": 1
+        },
+        {
+            "par": 1,
+            "distance": 1,
+            "holeNumber": 1
+        },
+        {
+            "par": 3,
+            "distance": 3,
+            "holeNumber": 3
+        },
+        {
+            "par": 4,
+            "distance": 4,
+            "holeNumber": 4
+        },
+        {
+            "par": 5,
+            "distance": 5,
+            "holeNumber": 5
+        },
+        {
+            "par": 6,
+            "distance": 6,
+            "holeNumber": 6
+        },
+        {
+            "par": 6,
+            "distance": 6,
+            "holeNumber": 6
+        }
+    ]
+}

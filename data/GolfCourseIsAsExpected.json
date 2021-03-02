@@ -1,0 +1,26 @@
+{
+  "par": 72,
+  "name": "St. Andrews",
+  "holes": [
+    {
+      "par": 5,
+      "distance": 300,
+      "holeNumber": 3
+    },
+    {
+      "par": 3,
+      "distance": 150,
+      "holeNumber": 2
+    },
+    {
+      "par": 4,
+      "distance": 350,
+      "holeNumber": 4
+    },
+    {
+      "par": 5,
+      "distance": 400,
+      "holeNumber": 5
+    }
+  ]
+}
